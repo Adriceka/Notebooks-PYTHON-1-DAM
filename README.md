@@ -16,6 +16,6 @@ Fundamentos de programación en Python
 
 7. [Excepciones](Notebooks/excepciones.ipynb) - Notebok sobre el manejo de errores de excepciones
 
-8. [Operadores Lógicos](Notebooks/operadores_logicos.ipynb) - Notebook sobre el uso de operadores lógicos y condicionales
+8. [Operadores_Lógicos](Notebooks/operadores_logicos.ipynb) - Notebook sobre el uso de operadores lógicos y condicionales
 
-9. [Operadores Lógicos](Notebooks/ejerciciorata.ipynb) - Notebook sobre ejercicios del libro de la rata
+9. [Ejercicios_Rata](Notebooks/ejerciciorata.ipynb) - Notebook sobre ejercicios del libro de la rata
